@@ -31,19 +31,19 @@ projects:
 # social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
+  facebook: HeyRoseKay
+  hackerrank: HeyRoseKay
+  instagram: HeyRoseKay
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: HeyRoseKay
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: HeyRoseKay
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: http://HeyRoseKay.com
   # youtube: your_username
 
 topics:
@@ -55,4 +55,4 @@ topics:
 
   - name: Sass
     web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.
