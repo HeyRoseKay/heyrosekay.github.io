@@ -1,5 +1,5 @@
 layout: sidebar
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -32,7 +32,7 @@ social_media:
   # behance: your_username
   # dribbble: your_username
   facebook: HeyRoseKay
-  hackerrank: HeyRoseKay
+  # hackerrank: HeyRoseKay
   instagram: HeyRoseKay
   # keybase: your_username
   linkedin: HeyRoseKay
